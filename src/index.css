@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+.bg_gr{
+  box-shadow: inset 0 0 5rem 2rem #fff;
+}
+
+body::-webkit-scrollbar {
+    width: 5px;
+   
+}
+body::-webkit-scrollbar-thumb {
+  background-color: #666e75;
+  border-radius: 5px;
+}
+.bg-img{
+  background-image: radial-gradient(#dfa57f 8%,transparent 0);
+}
