@@ -71,10 +71,10 @@ To run the ErrorTech Shop website locally, follow these steps:
 4. Start the development server:
 
    ```
-   npm start
+   npm run dev
    ```
 
-5. Open your web browser and navigate to [http://localhost:5173](http://localhost:3000).
+5. Open your web browser and navigate to [http://localhost:5173](http://localhost:5173).
 
 That's it! You should now be able to see the ErrorTech Shop website running locally on your machine.
 
