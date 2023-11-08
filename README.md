@@ -1,5 +1,3 @@
-Sure, I can help you with that. Here is a sample README file for the repository [ErrorTech-Shop-hub](https://github.com/Rashmi7205/ErrorTech-Shop-hub) that includes the file structure, features implemented, and instructions on how to run it locally:
-
 # ErrorTech-Shop-hub
 This site is at [Live🔥](https://shhophub.netlify.app/)
 
